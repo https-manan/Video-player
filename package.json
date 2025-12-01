@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.0",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.11",
+    "uuid": "^13.0.0"
+  },
+  "name": "video-player",
+  "version": "1.0.0",
+  "description": "A simple and responsive video player built with HTML, CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/https-manan/Video-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/https-manan/Video-player/issues"
+  },
+  "homepage": "https://github.com/https-manan/Video-player#readme"
+}
